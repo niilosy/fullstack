@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Jaska",
+        "email": "jaskajokunen@example.com",
+        "age": 25
+    },
+    {
+        "name": "Erkki",
+        "email": "erkkisuomalainen@example.com",
+        "age": 30
+    },
+    {
+        "name": "Sauli",
+        "email": "sauliniinistö@example.com",
+        "age": 76
+    }
+]
