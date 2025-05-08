@@ -26,8 +26,7 @@ function App() {
   const deleteTask = (index) => {
     setTasks(tasks.filter((_, i) => i !== index));
   };
-
-// itse sivu  
+ 
   return (
     <div className="App">
       <h1>To-Do List</h1>
